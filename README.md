@@ -1,13 +1,15 @@
-# 🚀 Advanced University Admission Portal
 
-An enhanced Python university admission system featuring continuous data entry loops, robust exception handling for user inputs, and structured data storage using lists and dictionaries.
+# 🎓 Advanced Admission Logic (Python)
 
-## 🌟 Key Features
-- *Continuous Loop:* Process multiple students in a single session.
-- *Robust Error Handling:* Uses try-except to manage invalid numeric inputs.
-- *Data Integrity:* Efficiently stores and displays student profiles using nested dictionaries.
-- *Smart Logic:* Automatic eligibility checks for Engineering, Medical, and Computer Science departments.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Version-v2.0-brightgreen?style=for-the-badge)
 
-## 🛠️ Tech Stack
-- *Language:* Python 3.x
-- *Concepts:* While Loops, Exception Handling, Data Structures (Lists & Dictionaries).
+An enhanced Python university admission system featuring continuous data entry loops, robust exception handling, and structured data storage using complex lists and dictionaries.
+
+## ✨ Improvements
+- **Continuous Loops:** Handle multiple student entries in a single session.
+- **Validation Engine:** Advanced subject and mark verification logic.
+- **State Management:** Efficient data handling using nested Python structures.
+
+---
+<p align="center">Developed by <a href="https://github.com/hafizabdulaziz">Abdul Aziz</a></p>
